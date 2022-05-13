@@ -4,11 +4,11 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-	<Key>NSPhotoLibraryUsageDescription</key>
+	<key>NSPhotoLibraryUsageDescription</key>
     <string>app needs permission for the photo library</string>
-    <Key>NSCameraUsageDescription</key>
+    <key>NSCameraUsageDescription</key>
     <string>app needs to the camera</string>
-    <Key>NSCameraUsageDescription</key>
+    <key>NSCameraUsageDescription</key>
     <string>app needs to the camera</string>
 	<key>CFBundleDisplayName</key>
 	<string>Sport App</string>
