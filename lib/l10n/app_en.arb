@@ -1,0 +1,29 @@
+
+{
+    "title": "Title",
+    "gameInfo": "Game Info ",
+    "fillInfo": "Please fill game information",
+    "sortDate": "Sort byDate",
+    "sortTitle": "Sort byTitle",
+    "gameDate": "game's Date ",
+    "gameTime": "game's Time ",
+    "edit": "Edit ",
+    "delete": "Delete",
+    "confirmDelete": "delete game ?",
+    "fillEmptyFields": "Please fill title,players and date !",
+    "invite": "Invite friend",
+    "phone": "WhatsApp Number",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "send": "Send",
+    "cancel": "Cancel",
+    "writeNumber": "Write friend's number",
+    "maxNumPlayers": "Players",
+    "addGame": "Add Game",
+    "addLocation": "Add Location",
+    "addDescription": "Add Description",
+    "location": "Location",
+    "addImage": "Add Image",
+    "invitationSent": "Invitation Sent !"
+
+}

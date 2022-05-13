@@ -1,0 +1,29 @@
+
+{
+    "title": "عنوان",
+    "gameInfo": "معلومات اللعبة",
+    "fillInfo": "يرجى تعبئة معلومات اللعبة",
+    "sortDate": "رتب وفق التاريخ",
+    "sortTitle": "رتب وفق العنوان",
+    "gameDate": "اختر التاريخ ",
+    "gameTime": "اختر التوقيت ",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "confirmDelete": "حذف اللعبة ؟",
+    "fillEmptyFields": "يرجى ملئ العنوان اللاعبين والتاريخ !",
+    "invite": "دعوة صديق",
+    "phone": "رقم الواتس",
+    "camera": "الكاميرا",
+    "gallery": "الاستديو",
+    "send": "أرسل",
+    "cancel": "الغاء",
+    "writeNumber": "اكتب رقم صديقك",
+    "maxNumPlayers": "عدداللاعبين",
+    "addGame": "اضافة لعبة",
+    "addLocation": "اختر الموقع",
+    "addDescription": "اضافة وصف للعبة",
+    "location": "الموقع",
+    "addImage": "اضافة صورة",
+    "invitationSent": "تم ارسال الدعوة"
+
+}
