@@ -2,14 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <Key>NSPhotoLibraryUsageDescription</key>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<Key>NSPhotoLibraryUsageDescription</key>
     <string>app needs permission for the photo library</string>
     <Key>NSCameraUsageDescription</key>
     <string>app needs to the camera</string>
     <Key>NSCameraUsageDescription</key>
     <string>app needs to the camera</string>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Sport App</string>
 	<key>CFBundleExecutable</key>
