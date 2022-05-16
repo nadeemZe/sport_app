@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+sport_app: users can create sport game with info like (image date location...),
 
-This project is a starting point for a Flutter application.
+they can invite friends by sending whatsapp message in app with game details ,edit gameand many more features .
 
-A few resources to get you started if this is your first Flutter project:
+* provider for state managment.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* twilio_package for sending whatsapp messages.
+ 
+* practicing optional named parameters.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* sorting algorithms.
+
+* unit testing.
+
