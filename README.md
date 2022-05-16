@@ -16,3 +16,7 @@ they can invite friends by sending whatsapp message in app with game details ,ed
 
 * unit testing.
 
+## To see other projects developed by me :
+
+- [Portfolio](https://nadeemze.github.io/Portfolio/)
+
